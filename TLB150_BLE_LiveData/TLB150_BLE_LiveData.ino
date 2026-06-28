@@ -1,7 +1,7 @@
 /*
   TLB150_BLE_LiveData.ino
   ------------------------------------------------------------
-  Copyright (c) 2026 [your name/handle here]
+  Copyright (c) 2026 [MartinusTech]
   Licensed under the Apache License, Version 2.0 - see LICENSE file in this repo.
 
   DISCLAIMER: This is an independent, community reverse-engineering
